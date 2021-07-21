@@ -11,7 +11,7 @@
 	<groupId>com.workincode.openshift</groupId>
 	<artifactId>ms-workincode-openshift</artifactId>
 	<version>0.0.1</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 	<name>ms-workincode-openshift</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
