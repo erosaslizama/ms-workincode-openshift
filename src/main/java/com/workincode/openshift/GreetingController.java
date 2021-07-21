@@ -12,4 +12,10 @@ public class GreetingController {
 		return "openshift simple";
 	}
 
+	
+	@GetMapping("/saludo2")
+	public String greeting2() {
+		return "openshift simple2";
+	}
+
 }
